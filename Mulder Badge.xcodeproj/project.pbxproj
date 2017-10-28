@@ -44,6 +44,7 @@
 				22AD7F1C1FA39F2D00F48A40 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		22AD7F1C1FA39F2D00F48A40 /* Products */ = {
 			isa = PBXGroup;
