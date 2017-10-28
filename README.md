@@ -2,7 +2,7 @@
 
 ## Written in swift 4
 
-_It Just (Barely) Works_
+_It Just Works_
 
 #### Tested on:
 	- iPhone 7 - IRL
